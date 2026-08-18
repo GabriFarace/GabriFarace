@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Software Engineer with a strong passion for large language models and NLP applications. I love exploring how intelligent systems can solve real-world problems and push the boundaries of what’s possible. My goal is to keep learning, building, and contributing to the beautiful world of AI.
+I’m a Software Engineer with a strong passion for large language models and NLP applications. I love exploring how intelligent systems can solve real-world problems and push the boundaries of what’s possible. My goal is to keep learning, building, and contributing to the beautiful world of Computer Science.
 
 
 ## 🌐 Socials:
